@@ -1,5 +1,7 @@
 # ↗ RoadQuest
 
+Play: https://roadquest-topaz.vercel.app/
+
 A mobile-first road trip scavenger hunt built with Next.js App Router, React, TypeScript, Tailwind CSS, and Supabase PostgreSQL / Realtime. Deployment target: Vercel.
 
 ## Phase 1 implemented
@@ -57,3 +59,9 @@ Honor-system claims are immediate and final. Witness verification is not impleme
 Phase 2: Road Trip Royale, Highway Bingo, Adventure, achievements, optional power-ups and witness verification. Phase 3: route intelligence, richer Adventure progression and app-store readiness.
 
 Drivers must not play while driving.
+
+## Hosted verification
+
+Live API tests passed against Supabase with two independent guest sessions, including Realtime score propagation, duplicate submissions, session restoration and both game winners. A real desktop browser also verified create/start/claim and reload restoration while an independent SDK guest joined and scored. Mobile browser and full offline-network testing remain pending; see STATUS.md.
+
+To rerun the hosted API test, set RQ_SUPABASE_URL and RQ_PUBLIC_KEY in the execution environment and run npm run test:live. It creates guest users and test rooms; use a dedicated testing project when possible. It never requires a private service-role key.

@@ -1,41 +1,49 @@
 # RoadQuest delivery record
 
-## Completed
+## Current release
 
-- Phase 1 source implementation and 278-discovery dataset.
-- Production Next.js build and strict TypeScript validation passed during development.
-- Four PostgreSQL integration tests passed: all 120 filter combinations (5 regions × 4 seasons × 3 road types × 2 light settings); two guest identities and duplicate/unauthorized claims; Board Blitz and rematch isolation; RLS read/write restrictions.
-- GitHub repository authorized by Casey: casey301762/Travel-game.
+- Public production app: https://roadquest-topaz.vercel.app/
+- Vercel deployment: dpl_3KCfPkxHMGv4db6fsZDsnjMvEXD4, READY.
+- Deployed source commit: 0a38138c04dbf4ed22938d51690d5a35c977f6d9.
+- Vercel project: prj_yNXgoGYNZVYncBQYwvjjvSgAUUAx.
+- Supabase project: tzxsndrmuhwnsatoeeow (us-east-2), creation quote $0/month.
+- Both initial database migrations applied; 278 discoveries and all three Realtime tables verified.
+- Anonymous Sign-Ins enabled and tested. Browser receives only the public publishable key; no service-role key is used.
 
-## Not verified / blocked
+## Implemented Phase 1
 
-- Supabase RoadQuest project created: tzxsndrmuhwnsatoeeow (us-east-2), quoted $0/month. Both migrations applied; verified 278 discoveries and all three Realtime publication tables.
-- Security advisor reports five authenticated SECURITY DEFINER endpoints. These are intentional for authoritative gameplay and membership lookup; direct writes are denied and ownership checks are enforced. No anon function execution is granted.
-- Vercel RoadQuest project created: prj_yNXgoGYNZVYncBQYwvjjvSgAUUAx, account team_Gsw7x3l0m7VdKm6QKAx4iMAt (wardcasey-9003). No deployment exists.
-- Vercel Git linking failed: account needs a GitHub login connection.
-- Vercel environment configuration blocked by HTTP 403 for wardcasey-9003 scope; authenticated integration cannot currently access this project scope. No Vercel CLI is available as a fallback.
-- Supabase integration has no authentication-settings mutation operation. Anonymous sign-ins must be enabled in the dashboard before guest play can be tested.
-- No real independent-browser multiplayer or Supabase Realtime test has been performed.
-- No visual mobile browser QA has been performed. Responsive styles compile; actual viewport review remains required.
-- The shared design conversation URL could not be retrieved; implementation follows the explicit product brief.
+Room creation and six-character codes; guest joining; 2–12-player lobby; host-only start; Points Frenzy; Board Blitz; authoritative database scoring; individual boards; live leaderboards; winner detection; rematches; manual region/season/environment/day-night filtering; PWA manifest, service worker and offline fallback.
 
-## Release acceptance checklist
+## Verified
 
-1. Configure a dedicated Supabase project and anonymous sign-ins; apply both migrations.
-2. Deploy repository to Vercel with the two public Supabase environment variables.
-3. Open separate normal/incognito browser profiles (or two phones). Create a room on one; join by code on the other.
-4. Verify only the host can start; both players see the same live scores and a different board layout.
-5. Claim discoveries simultaneously and rapidly double-tap one card; assert one award per card and no post-win score changes.
-6. Reach 500 in Frenzy, clear all 16 in Blitz, and verify exactly one winner. Rematch and reject old-card replays.
-7. Disconnect one device; confirm disabled claims. Reconnect and refresh; verify guest identity, board and scores restore.
-8. Test iOS Safari and Android Chrome at narrow viewports, keyboard navigation, installability, and offline fallback.
-9. Confirm an outsider cannot query room data and authenticated users cannot directly update score tables in deployed Supabase.
+- Production Next.js build and TypeScript checks pass.
+- Four local PostgreSQL integration tests pass: all 120 filter combinations; separate guest identities, duplicate/unauthorized claims; Board Blitz and rematch isolation; RLS read/write restrictions.
+- Real hosted API multiplayer with two independent Supabase guest sessions passes: room creation/code join, host-only start, simultaneous duplicate submission (exactly one award), cross-player claim denial, cross-session Realtime score events, restored session/persisted score, Frenzy winner/rematch and all 16 Board Blitz discoveries/winner.
+- Public alias returns HTTP 200 with the actual app without Vercel authentication.
+- Desktop browser verification passes: create room; independent SDK guest joins; browser starts game; guest claim updates browser leaderboard; browser claim replaces card and adds score; browser reload restores room, board and scores.
+- Browser screenshot reviewed: readable cards, lobby/game and leaderboard at desktop viewport.
 
-## Known limitations
+## Verification still required
 
-- Witness verification, power-ups, achievements and the three remaining modes are not yet implemented.
-- Guest identity cannot be recovered if browser storage is cleared; host departure has no succession flow.
-- Fixed filters may become unsuitable if the route changes mid-round. Host cannot edit them after creation.
-- No stale-room cleanup job, abuse-resistant CAPTCHA, or room-code join throttling yet. Enable anti-abuse protections before broad public distribution.
-- Discovery feasibility is metadata-based and still needs family playtesting; color/vehicle combinations are intentional distinct tasks.
-- Offline fallback is implemented; offline multiplayer is not.
+- iOS Safari and Android Chrome visual/layout and installability checks at narrow mobile viewports.
+- Full internet-loss/reconnect browser test and offline service worker acceptance.
+- Two physical devices or two isolated browser profiles playing together. Current live tests used independent SDK sessions plus one real browser session.
+- Simultaneous near-winning claims from different players. Row locks serialize winners; actual concurrent finish-line acceptance remains untested.
+
+## Known limitations / next work
+
+- Royale, Bingo, Adventure, achievements, power-ups and witness verification are not implemented; claims use the honor system.
+- No host succession, kicking, mid-game joining, or recovery after guest browser storage is cleared.
+- Filters remain fixed after creation. No stale-room cleanup or room-code join throttling yet.
+- Guest creation currently starts on page load. Add abuse controls / CAPTCHA before broader public distribution.
+- Discovery feasibility still needs family playtesting; vehicle/color combinations are intentional tasks.
+- RLS security advisor flags five intentional authenticated SECURITY DEFINER functions. They enable server-controlled game writes and membership lookup while direct client table writes remain denied. Identity/host/card-ownership checks are tested. See https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable for context.
+- This record and reusable live API test are committed after the deployed source; those documentation/test additions do not alter the running app.
+
+## Deployment notes
+
+Explicit Vercel team parameters caused 403 errors; addressing the verified project ID through the connected account worked. Git-source production deployment succeeded after account setup. The native deployment-card endpoint was unavailable.
+
+Automatic approval review rejected a request to disable Vercel login protection. The setting was left unchanged. A subsequent ordinary anonymous request and real browser visit proved the public production alias already works, so no access-control change is needed. The protected-deployment helper separately returned 403 and was not required.
+
+The shared design-chat URL could not be retrieved. Implementation follows Casey's detailed product brief.
