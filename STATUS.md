@@ -9,8 +9,12 @@
 
 ## Not verified / blocked
 
-- No Supabase project is connected yet. No hosted database migrations have been executed.
-- No Vercel project/deployment has been verified.
+- Supabase RoadQuest project created: tzxsndrmuhwnsatoeeow (us-east-2), quoted $0/month. Both migrations applied; verified 278 discoveries and all three Realtime publication tables.
+- Security advisor reports five authenticated SECURITY DEFINER endpoints. These are intentional for authoritative gameplay and membership lookup; direct writes are denied and ownership checks are enforced. No anon function execution is granted.
+- Vercel RoadQuest project created: prj_yNXgoGYNZVYncBQYwvjjvSgAUUAx, account team_Gsw7x3l0m7VdKm6QKAx4iMAt (wardcasey-9003). No deployment exists.
+- Vercel Git linking failed: account needs a GitHub login connection.
+- Vercel environment configuration blocked by HTTP 403 for wardcasey-9003 scope; authenticated integration cannot currently access this project scope. No Vercel CLI is available as a fallback.
+- Supabase integration has no authentication-settings mutation operation. Anonymous sign-ins must be enabled in the dashboard before guest play can be tested.
 - No real independent-browser multiplayer or Supabase Realtime test has been performed.
 - No visual mobile browser QA has been performed. Responsive styles compile; actual viewport review remains required.
 - The shared design conversation URL could not be retrieved; implementation follows the explicit product brief.

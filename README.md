@@ -23,7 +23,7 @@ npm ci
 cp .env.example .env.local
 ```
 
-Create a **new, dedicated Supabase project**. Run `supabase/migrations/001_game.sql` followed by `002_discoveries.sql` in its SQL editor (or use the Supabase CLI migration workflow). These are initial migrations, not rerunnable scripts. They alter public-schema function privileges; do not run them against an unrelated existing application database.
+Create a **new, dedicated Supabase project**. Run `supabase/migrations/001_game.sql` followed by `002_discoveries.sql` in its SQL editor (or use the Supabase CLI migration workflow). These are initial migrations, not rerunnable scripts. They create RoadQuest tables and function privileges; use a dedicated project to avoid naming collisions.
 
 Enable **Anonymous Sign-Ins** under Supabase Authentication. Set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` in `.env.local`. The anon / publishable key is designed to be public; access is constrained by guest JWTs, row-level security, and RPC permissions. No service-role key is used or required by this app.
 

@@ -4,6 +4,8 @@ create table public.rooms(id uuid primary key default gen_random_uuid(), code te
 create table public.players(id uuid not null, room_id uuid references public.rooms on delete cascade, name text not null check(length(name) between 1 and 20), score int not null default 0, primary key(room_id,id));
 create table public.cards(id uuid primary key default gen_random_uuid(), room_id uuid not null references public.rooms on delete cascade, player_id uuid not null, discovery_id int references public.discoveries, slot int not null, round int not null, claimed boolean not null default false);
 create index on public.cards(room_id,player_id,round);
+create index on public.players(id,room_id);
+create index on public.cards(discovery_id);
 alter table public.rooms enable row level security;
 alter table public.players enable row level security;
 alter table public.cards enable row level security;
@@ -20,7 +22,7 @@ create function public.create_room(n text,m text,reg text,sea text,env text,tod 
 if auth.uid() is null then raise exception 'Guest sign-in required'; end if;
 if m not in ('frenzy','blitz') or reg not in ('midwest','northeast','southeast','southwest','west') or sea not in ('spring','summer','fall','winter') or env not in ('highway','rural','city') or tod not in ('day','night') then raise exception 'Invalid settings'; end if;
 if (select count(*) from rooms where host=auth.uid() and created_at>now()-interval '1 hour')>=10 then raise exception 'Room limit reached'; end if;
-loop c:=upper(substr(encode(gen_random_bytes(8),'hex'),1,6)); begin insert into rooms(code,host,mode,region,season,environment,daytime) values(c,auth.uid(),m,reg,sea,env,tod) returning id into rid; exit; exception when unique_violation then end; end loop;
+loop c:=upper(substr(replace(gen_random_uuid()::text,'-',''),1,6)); begin insert into rooms(code,host,mode,region,season,environment,daytime) values(c,auth.uid(),m,reg,sea,env,tod) returning id into rid; exit; exception when unique_violation then end; end loop;
 insert into players(id,room_id,name) values(auth.uid(),rid,trim(n)); return rid; end $$;
 create function public.join_room(c text,n text) returns uuid language plpgsql security definer set search_path=public as $$ declare r rooms; begin
 if auth.uid() is null then raise exception 'Guest sign-in required'; end if;
@@ -57,6 +59,6 @@ elsif r.mode='frenzy' then
 select d.id into replacement from discoveries d where eligible(d,r) and not exists(select 1 from cards b where b.room_id=r.id and b.player_id=auth.uid() and b.discovery_id=d.id and not b.claimed) and d.id<>c.discovery_id order by random() limit 1;
 insert into cards(room_id,player_id,discovery_id,slot,round) values(r.id,auth.uid(),replacement,c.slot,r.round);
 end if; end $$;
-revoke execute on all functions in schema public from public,anon,authenticated;
+revoke execute on function public.member(uuid),public.eligible(public.discoveries,public.rooms),public.create_room(text,text,text,text,text,text),public.join_room(text,text),public.start_game(uuid),public.claim_card(uuid) from public,anon,authenticated;
 grant execute on function public.member(uuid),public.create_room(text,text,text,text,text,text),public.join_room(text,text),public.start_game(uuid),public.claim_card(uuid) to authenticated;
 alter publication supabase_realtime add table public.rooms,public.players,public.cards;
