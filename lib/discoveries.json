@@ -1,0 +1,3868 @@
+[
+  {
+    "id": 1,
+    "label": "Speed limit sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 2,
+    "label": "Exit sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 3,
+    "label": "Mile marker",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 4,
+    "label": "Overpass",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 5,
+    "label": "Guardrail",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 6,
+    "label": "Rest area sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 7,
+    "label": "Gas station sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 8,
+    "label": "Bridge",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 9,
+    "label": "Road work sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 10,
+    "label": "Traffic cone",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 11,
+    "label": "Electronic message board",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 12,
+    "label": "Truck weigh station sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 13,
+    "label": "Hospital sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 14,
+    "label": "Airport sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 15,
+    "label": "Lodging sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 16,
+    "label": "Food exit sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 17,
+    "label": "Interstate shield",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 18,
+    "label": "US highway shield",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 19,
+    "label": "State route shield",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 20,
+    "label": "Merge sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 21,
+    "label": "Lane ends sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 22,
+    "label": "Curve warning sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 23,
+    "label": "Adopt a highway sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 24,
+    "label": "Seat belt reminder sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 25,
+    "label": "Roadside emergency phone sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 26,
+    "label": "Distance sign naming two towns",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 27,
+    "label": "Speed limit 55 sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 28,
+    "label": "Speed limit 65 sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 29,
+    "label": "Speed limit 70 sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 30,
+    "label": "Exit number ending in zero",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 31,
+    "label": "Roadside reflector",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 32,
+    "label": "Cable median barrier",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 33,
+    "label": "Concrete median barrier",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 34,
+    "label": "Sound barrier wall",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 35,
+    "label": "Cell tower",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 36,
+    "label": "Power transmission tower",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 37,
+    "label": "Water tower",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 38,
+    "label": "Billboard",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 39,
+    "label": "Flagpole",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 40,
+    "label": "Wind turbine",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 41,
+    "label": "Solar panel array",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 42,
+    "label": "Railroad bridge",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 43,
+    "label": "River crossing sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 44,
+    "label": "County line sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 45,
+    "label": "State line sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 46,
+    "label": "Scenic overlook sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 47,
+    "label": "Tourist information sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 48,
+    "label": "Park sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 49,
+    "label": "Campground sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 50,
+    "label": "Boat launch sign",
+    "category": "landmark",
+    "emoji": "\ud83e\udded",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 51,
+    "label": "Stop sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 52,
+    "label": "Yield sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 53,
+    "label": "School crossing sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 54,
+    "label": "Railroad crossing sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 55,
+    "label": "Roundabout sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 56,
+    "label": "No parking sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 57,
+    "label": "One way sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 58,
+    "label": "Bike lane sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 59,
+    "label": "Crosswalk",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 60,
+    "label": "Fire station",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 61,
+    "label": "Library sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 62,
+    "label": "Post office",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 63,
+    "label": "Church steeple",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 64,
+    "label": "Clock tower",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 65,
+    "label": "Bus stop",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 66,
+    "label": "Traffic light",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 67,
+    "label": "Pedestrian signal",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 68,
+    "label": "Parking garage",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 69,
+    "label": "Mural",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 70,
+    "label": "Fountain",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 71,
+    "label": "Dog park sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 72,
+    "label": "Public playground",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 73,
+    "label": "Basketball hoop",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 74,
+    "label": "Soccer goal",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 75,
+    "label": "Baseball diamond",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 76,
+    "label": "Tennis court",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 77,
+    "label": "Skate park",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 78,
+    "label": "School bus stop sign",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 79,
+    "label": "Apartment balcony",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 80,
+    "label": "Rooftop air conditioner",
+    "category": "town",
+    "emoji": "\ud83c\udfd8\ufe0f",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "city",
+      "rural"
+    ],
+    "times": []
+  },
+  {
+    "id": 81,
+    "label": "Barn",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 82,
+    "label": "Silo",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 83,
+    "label": "Grain elevator",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 84,
+    "label": "Tractor",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 85,
+    "label": "Hay bale",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 86,
+    "label": "Farm fence",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 87,
+    "label": "Cattle gate",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 88,
+    "label": "Horse trailer",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 89,
+    "label": "Irrigation system",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 90,
+    "label": "Farm stand",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 91,
+    "label": "Orchard",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 92,
+    "label": "Vineyard",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 93,
+    "label": "Greenhouse",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 94,
+    "label": "Gravel driveway",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 95,
+    "label": "Mailbox with flag raised",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 96,
+    "label": "Farm equipment dealer",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 97,
+    "label": "Covered firewood stack",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 98,
+    "label": "Water trough",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 99,
+    "label": "Farmhouse porch",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 100,
+    "label": "Windmill",
+    "category": "country",
+    "emoji": "\ud83c\udf3e",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural",
+      "highway"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 101,
+    "label": "Cow",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 102,
+    "label": "Horse",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 103,
+    "label": "Sheep",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 104,
+    "label": "Goat",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 105,
+    "label": "Chicken",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 106,
+    "label": "Llama",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 107,
+    "label": "Alpaca",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 108,
+    "label": "Donkey",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 109,
+    "label": "Pig",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 110,
+    "label": "Farm dog",
+    "category": "animal",
+    "emoji": "\ud83d\udc04",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 111,
+    "label": "Hawk on a pole",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 112,
+    "label": "Flock of geese",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 113,
+    "label": "Crow",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 114,
+    "label": "Duck",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 115,
+    "label": "Turkey",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 116,
+    "label": "Deer",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 117,
+    "label": "Squirrel",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 118,
+    "label": "Rabbit",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 119,
+    "label": "Dog riding in a car",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 120,
+    "label": "Bird nest",
+    "category": "animal",
+    "emoji": "\ud83e\udd85",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 121,
+    "label": "Snowplow",
+    "category": "season",
+    "emoji": "\u2744\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "winter"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 122,
+    "label": "Snowbank",
+    "category": "season",
+    "emoji": "\u2744\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "winter"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 123,
+    "label": "Icicles",
+    "category": "season",
+    "emoji": "\u2744\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "winter"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 124,
+    "label": "Snow-covered roof",
+    "category": "season",
+    "emoji": "\u2744\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "winter"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 125,
+    "label": "Pumpkin stand",
+    "category": "season",
+    "emoji": "\ud83c\udf42",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "fall"
+    ],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 126,
+    "label": "Orange-leaved tree",
+    "category": "season",
+    "emoji": "\ud83c\udf42",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "fall"
+    ],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 127,
+    "label": "Corn maze sign",
+    "category": "season",
+    "emoji": "\ud83c\udf42",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "fall"
+    ],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 128,
+    "label": "Harvested cornfield",
+    "category": "season",
+    "emoji": "\ud83c\udf42",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "fall"
+    ],
+    "environments": [
+      "rural"
+    ],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 129,
+    "label": "Flowering tree",
+    "category": "season",
+    "emoji": "\ud83c\udf37",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "spring"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 130,
+    "label": "Daffodils",
+    "category": "season",
+    "emoji": "\ud83c\udf37",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "spring"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 131,
+    "label": "Tulips",
+    "category": "season",
+    "emoji": "\ud83c\udf37",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "spring"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 132,
+    "label": "Plant nursery sign",
+    "category": "season",
+    "emoji": "\ud83c\udf37",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "spring"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 133,
+    "label": "Sprinkler running",
+    "category": "season",
+    "emoji": "\u2600\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "summer"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 134,
+    "label": "Ice cream truck",
+    "category": "season",
+    "emoji": "\u2600\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "summer"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 135,
+    "label": "Convertible with roof down",
+    "category": "season",
+    "emoji": "\u2600\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "summer"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 136,
+    "label": "Roadside fireworks stand",
+    "category": "season",
+    "emoji": "\u2600\ufe0f",
+    "points": 35,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [
+      "summer"
+    ],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 137,
+    "label": "Saguaro cactus",
+    "category": "region",
+    "emoji": "\ud83c\udf35",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "southwest"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 138,
+    "label": "Adobe building",
+    "category": "region",
+    "emoji": "\ud83c\udf35",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "southwest"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 139,
+    "label": "Desert mesa",
+    "category": "region",
+    "emoji": "\ud83c\udf35",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "southwest"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 140,
+    "label": "Mountain snowcap",
+    "category": "region",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "west"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 141,
+    "label": "Redwood tree",
+    "category": "region",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "west"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 142,
+    "label": "Rocky ocean shore",
+    "category": "region",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "west"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 143,
+    "label": "Covered bridge",
+    "category": "region",
+    "emoji": "\ud83c\udf41",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "northeast"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 144,
+    "label": "Maple syrup sign",
+    "category": "region",
+    "emoji": "\ud83c\udf41",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "northeast"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 145,
+    "label": "Cotton field",
+    "category": "region",
+    "emoji": "\ud83c\udf34",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "southeast"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 146,
+    "label": "Palmetto tree",
+    "category": "region",
+    "emoji": "\ud83c\udf34",
+    "points": 60,
+    "rarity": "rare",
+    "regions": [
+      "southeast"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 147,
+    "label": "Grain truck",
+    "category": "region",
+    "emoji": "\ud83c\udf3d",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [
+      "midwest"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 148,
+    "label": "Ethanol plant sign",
+    "category": "region",
+    "emoji": "\ud83c\udf3d",
+    "points": 40,
+    "rarity": "uncommon",
+    "regions": [
+      "midwest"
+    ],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 149,
+    "label": "Neon motel sign",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 150,
+    "label": "Lit water tower",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 151,
+    "label": "Illuminated bridge",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 152,
+    "label": "Red light atop a tower",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 153,
+    "label": "Lighted gas station canopy",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 154,
+    "label": "Lit restaurant sign",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 155,
+    "label": "Streetlight",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 156,
+    "label": "Truck with amber marker lights",
+    "category": "night",
+    "emoji": "\ud83c\udf19",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "night"
+    ]
+  },
+  {
+    "id": 157,
+    "label": "Police vehicle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 158,
+    "label": "Ambulance",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 159,
+    "label": "Fire engine",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 160,
+    "label": "Tow truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 161,
+    "label": "School bus",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 162,
+    "label": "City bus",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 163,
+    "label": "Charter bus",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 164,
+    "label": "Motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 165,
+    "label": "Motorhome",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 166,
+    "label": "Travel trailer",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 167,
+    "label": "Fifth wheel trailer",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 168,
+    "label": "Car carrier",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 169,
+    "label": "Cement mixer",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 170,
+    "label": "Dump truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 171,
+    "label": "Garbage truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 172,
+    "label": "Delivery van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 173,
+    "label": "Tanker truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 174,
+    "label": "Flatbed truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 175,
+    "label": "Logging truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 176,
+    "label": "Moving truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 177,
+    "label": "Box truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 178,
+    "label": "Semi with sleeper cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 179,
+    "label": "Semi with two trailers",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 180,
+    "label": "Semi with three axles",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 181,
+    "label": "Vehicle towing a boat",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 182,
+    "label": "Vehicle towing a camper",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 183,
+    "label": "Vehicle with roof box",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 184,
+    "label": "Vehicle carrying bicycles",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 185,
+    "label": "Vehicle with kayak",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 186,
+    "label": "Vehicle with ladder",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 187,
+    "label": "Vehicle with spare tire outside",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 188,
+    "label": "Vehicle with bumper sticker",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 189,
+    "label": "Vehicle with out-of-state plate",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 190,
+    "label": "Vehicle with muddy tires",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 191,
+    "label": "Vehicle with custom wheels",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 192,
+    "label": "Electric car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 193,
+    "label": "Hybrid badge",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 194,
+    "label": "Vintage car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 195,
+    "label": "Sports car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 196,
+    "label": "Limousine",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 197,
+    "label": "Food truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 198,
+    "label": "Bucket truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 199,
+    "label": "Utility service truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 200,
+    "label": "Oversize load escort",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 201,
+    "label": "Oversize load truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 202,
+    "label": "Tractor on a trailer",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 203,
+    "label": "Excavator on a trailer",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 204,
+    "label": "Vehicle with dog sticker",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 205,
+    "label": "Vehicle with sports team sticker",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 206,
+    "label": "Vehicle with a dent",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude99",
+    "points": 25,
+    "rarity": "uncommon",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": []
+  },
+  {
+    "id": 207,
+    "label": "Red pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 208,
+    "label": "Red sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 209,
+    "label": "Red SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 210,
+    "label": "Red van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 211,
+    "label": "Red semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 212,
+    "label": "Red compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 213,
+    "label": "Red motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 214,
+    "label": "Red delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 215,
+    "label": "Blue pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 216,
+    "label": "Blue sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 217,
+    "label": "Blue SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 218,
+    "label": "Blue van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 219,
+    "label": "Blue semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 220,
+    "label": "Blue compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 221,
+    "label": "Blue motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 222,
+    "label": "Blue delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 223,
+    "label": "White pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 224,
+    "label": "White sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 225,
+    "label": "White SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 226,
+    "label": "White van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 227,
+    "label": "White semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 228,
+    "label": "White compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 229,
+    "label": "White motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 230,
+    "label": "White delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 231,
+    "label": "Black pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 232,
+    "label": "Black sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 233,
+    "label": "Black SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 234,
+    "label": "Black van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 235,
+    "label": "Black semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 236,
+    "label": "Black compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 237,
+    "label": "Black motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 238,
+    "label": "Black delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 239,
+    "label": "Silver pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 240,
+    "label": "Silver sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 241,
+    "label": "Silver SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 242,
+    "label": "Silver van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 243,
+    "label": "Silver semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 244,
+    "label": "Silver compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 245,
+    "label": "Silver motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 246,
+    "label": "Silver delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 247,
+    "label": "Green pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 248,
+    "label": "Green sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 249,
+    "label": "Green SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 250,
+    "label": "Green van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 251,
+    "label": "Green semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 252,
+    "label": "Green compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 253,
+    "label": "Green motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 254,
+    "label": "Green delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 255,
+    "label": "Yellow pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 256,
+    "label": "Yellow sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 257,
+    "label": "Yellow SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 258,
+    "label": "Yellow van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 259,
+    "label": "Yellow semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 260,
+    "label": "Yellow compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 261,
+    "label": "Yellow motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 262,
+    "label": "Yellow delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 263,
+    "label": "Orange pickup truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 264,
+    "label": "Orange sedan",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 265,
+    "label": "Orange SUV",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 266,
+    "label": "Orange van",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 267,
+    "label": "Orange semi cab",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 268,
+    "label": "Orange compact car",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 269,
+    "label": "Orange motorcycle",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 270,
+    "label": "Orange delivery truck",
+    "category": "vehicle",
+    "emoji": "\ud83d\ude97",
+    "points": 20,
+    "rarity": "common",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 271,
+    "label": "Hot air balloon",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 272,
+    "label": "Oscar Mayer Wienermobile",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 273,
+    "label": "Rainbow",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 274,
+    "label": "Bald eagle",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 275,
+    "label": "Train crossing over the highway",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 276,
+    "label": "Vehicle hauling a tiny house",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 277,
+    "label": "Pink limousine",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  },
+  {
+    "id": 278,
+    "label": "Monster truck on a trailer",
+    "category": "golden",
+    "emoji": "\u2728",
+    "points": 80,
+    "rarity": "rare",
+    "regions": [],
+    "seasons": [],
+    "environments": [],
+    "times": [
+      "day"
+    ]
+  }
+]
