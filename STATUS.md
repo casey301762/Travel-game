@@ -3,8 +3,8 @@
 ## Current release
 
 - Public production app: https://roadquest-topaz.vercel.app/
-- Vercel deployment: dpl_3KCfPkxHMGv4db6fsZDsnjMvEXD4, READY.
-- Deployed source commit: 0a38138c04dbf4ed22938d51690d5a35c977f6d9.
+- Vercel deployment: dpl_BBhy7NA8nXsBnPHZm5HKuKtMNJfe, READY.
+- Deployed source commit: 593021789ea67df7877abc899e48a9276e95f879.
 - Vercel project: prj_yNXgoGYNZVYncBQYwvjjvSgAUUAx.
 - Supabase project: tzxsndrmuhwnsatoeeow (us-east-2), creation quote $0/month.
 - Both initial database migrations applied; 278 discoveries and all three Realtime tables verified.
@@ -47,3 +47,11 @@ Explicit Vercel team parameters caused 403 errors; addressing the verified proje
 Automatic approval review rejected a request to disable Vercel login protection. The setting was left unchanged. A subsequent ordinary anonymous request and real browser visit proved the public production alias already works, so no access-control change is needed. The protected-deployment helper separately returned 403 and was not required.
 
 The shared design-chat URL could not be retrieved. Implementation follows Casey's detailed product brief.
+
+## November 6, 2026 recovery
+
+- Investigated disabled Create an adventure control. Supabase reported INACTIVE; restored the project and verified ACTIVE_HEALTHY.
+- Deployed commit 593021789ea67df7877abc899e48a9276e95f879 to production; Vercel build/TypeScript checks reached READY. Public HTML includes the new connection-status and nickname hints.
+- Create and Join now attempt guest connection when tapped instead of silently remaining disabled solely because uid is unavailable. Added a 12-second connection timeout, visible status, and Retry connection control. Nickname and valid room code requirements still apply.
+- Live API recovery checks passed: guest sign-in, room creation, six-character code, independent guest join, host game start and six discovery cards. Exact discovery count remains 278.
+- The recovered UI has not received a fresh browser/mobile visual test in this session.
